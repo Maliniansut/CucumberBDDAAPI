@@ -8,7 +8,7 @@ Benefits of Using APIHelper
 ✅ Easy Maintenance – If API headers or authentication changes, we update only the helper.
 ✅ Readability – Step definitions remain concise and focused on behavior.
 ✅ Scalability – We can add more methods (GET, PUT, DELETE) as needed.
-
+ 
 Role of ConfigReader.java (Configuration Reader)
 A ConfigReader.java file is used in Cucumber BDD with Rest Assured to store and retrieve configuration settings like:
 ✅ Base URL (so we don’t hardcode it in tests)
